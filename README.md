@@ -14,10 +14,17 @@ Automatically generate executive-style summaries and visualizations from busines
 ---
 
 ## 📂 Folder Structure
-
-<pre> ```text ChatGPT_Report_Assistant/ ├── scripts/ │ └── google_sheets_script.js # Google Apps Script code ├── assets/ │ ├── sample_data.jpg # Screenshot of Data2 sheet │ ├── report_summary.jpg # Screenshot of Report2 summary │ └── report_charts.jpg # Screenshot of generated charts └── README.md # This file ``` </pre>
-
----
+<pre>
+ChatGPT_Report_Assistant/
+├── scripts/
+│   └── google_sheets_script.js         # Google Apps Script code
+├── assets/
+│   ├── sample_data.jpg                 # Screenshot of Data2 sheet
+│   ├── report_summary.jpg              # Screenshot of Report2 summary
+│   └── report_charts.jpg               # Screenshot of generated charts
+└── README.md                           # This file
+</pre>
+  ---
 
 ## ⚙️ How to Set Up
 
